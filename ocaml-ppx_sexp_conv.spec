@@ -48,7 +48,7 @@ używających biblioteki ppx_sexp_conv.
 
 %package devel
 Summary:	ppx_sexp_conv binding for OCaml - development part
-Summary(pl.UTF-8):	Wiązania ppx_sexp_conv dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	Wiązania ppx_sexp_conv dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
